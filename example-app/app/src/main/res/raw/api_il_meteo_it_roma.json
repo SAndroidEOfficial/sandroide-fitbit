@@ -1,0 +1,8 @@
+{
+  "daily":{
+    "url":"http://www.ilmeteo.it/portale/files/5913_day.xml"
+  },
+  "hourly":{
+    "url":"http://www.ilmeteo.it/portale/files/5913_hour.xml"
+  }
+}
